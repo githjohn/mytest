@@ -13,7 +13,7 @@
 # #int integer =整数  把字符串转成int,用int(被转的数据)
 # #str string =字符串 把数据转成字h符串用str(被转的数据)
 # print("Your name:",name)
-# #拼接用+必須是字符串才可以
+# #拼接用+必須是字符串才可以.
 
 
 
