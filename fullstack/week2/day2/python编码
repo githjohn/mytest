@@ -1,0 +1,23 @@
+解码好好看看
+二进制
+ 》ASCII:只能存储英文和拉丁文字符
+ 》gb2312 只有6700多个  1980年
+ 》1995 gbk1.0 存了2w多字符
+ 》gb18020 2000  村了2w7多个中文
+
+ 万国码
+ 》unicode:utf-32: 4个字节
+ 》unicode:utf-16 一个字节
+ 》unicode:utf-8 一个英文ASCII码来村  一个中文3个字节
+ 把外国语言转换成unicode是编码   把 unicode转换成中文是解码
+
+ in python2
+ 默认 ASCII码
+ s = "tesla"
+ so_=s.decode("utf-8") 转码成utf-8
+ so_=s.encode("gbk")
+ print(so_)
+
+in python3
+默认是unicode
+
