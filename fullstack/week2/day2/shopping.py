@@ -1,7 +1,3 @@
-#__author:  Administrator
-#date:  2016/8/23
-
-
 product_list=[
     ('Mac',9000),
     ('kindle',800),
