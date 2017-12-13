@@ -1,17 +1,3 @@
-
-上节内容
-变量
-if else
-注释 #  ''' msg  '''
-    3个引号  打印多行
-    ', "" 双单引号的意义是一样的
-
-缩进
-
-
-
-
-本节内容
 pycharm使用
     集成开发环境（IDE，Integrated Development Environment ）
     VIM #经典的linux下的文本编辑器
@@ -21,19 +7,14 @@ pycharm使用
     notepad++ ,
     sublime python开发的
     Pycharm ，是主要用于python开发的ide
-
     location 位置
     untitled 未命名的
     fullstack  全栈
     interpreter 解释器
-
-
-
 字符格式化输出
  占位符 %s  s = string
        %d  d = digit 整数
        %f  f = float 浮点数，约等于小数
-
 数据运算
     数据类型出初识
         数字
@@ -45,26 +26,18 @@ pycharm使用
         布尔 只有2种状态，分别是
             真 True
             假 False
-
         字符串
             salary.isdigit()
             计算机中， 一切皆为对象
             世界万物，皆为对象，一切对象皆可分类
-
-
-
-
 循环loop
     有限循环 ，次数限制
     无限循环=死循环
     continue 结束本次循环，继续下一次循环
     break 跳出整个当前的循环
-
 for
 while
 break , continue
-
-
 数据类型
     整数
     字符串
@@ -79,26 +52,20 @@ break , continue
             a.append() 追加
             a.insert(index, "内容")
             a.extend 扩展
-
         修改
             a[index] = "新的值"
             a[start:end] = [a,b,c]
-
         删除
             remove("内容")
             pop(index)
             del a, del a[index]
             a.clear() 清空
-
         排序
             sort ()
             reverse()
-
         身份判断
             >>> type(a) is list
             True
-            >>>
-
     购物车程序
         salary = 5000
         1.  iphone6s  5800
@@ -116,18 +83,3 @@ break , continue
       coffee    30
       您的余额为:2970
       欢迎下次光临
-
-
-
-
-
-    字典
-    三级菜单
-
-
-
-
-
-
-
-
